@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ViewDemo</string>
+    <string name="item1">Item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="item4">Item4</string>
+    <string name="item5">Item5</string>
+    <string name="tv1">TextView1</string>
+    <string name="tv2">TextView2</string>
+    <string name="tv3">TextView3</string>
+    <string name="tv_item">Press from Area 1 and item will be displayed here!</string>
+    <string name="btn_red">Red</string>
+    <string name="btn_green">Green</string>
+    <string name="btn_blue">Blue</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
